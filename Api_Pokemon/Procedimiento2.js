@@ -2,7 +2,7 @@ function Buscaelpokemon()
 {
   const Data =  {
     "DocumentoIdentidad":"12312312",
-    "Nombres":"test",
+    "Nombres":document.getElementById("textt").value,
     "Telefono":"123456789",
     "Correo":"garcia4014@gmail.com",
     "Ciudad":"Lima"
